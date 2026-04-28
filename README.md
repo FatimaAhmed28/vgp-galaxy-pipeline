@@ -153,12 +153,16 @@ Confirms correct ordering and orientation
 ________________________________________
 
 Results and Performance
-Metric	Value	Assessment
+
 Genome Size	~11.7 Mb	Accurate
-N50	~922 kb	Excellent
-BUSCO	95.9%	High
-Merqury	99.9999%	Outstanding
-Phasing	Clear	Excellent
+
+N50	        ~922 kb	        Excellent
+
+BUSCO	         95.9%	        High
+
+Merqury	        99.9999%	Outstanding
+
+Phasing	        Clear	        Excellent
 ________________________________________
 
 Biological Significance
