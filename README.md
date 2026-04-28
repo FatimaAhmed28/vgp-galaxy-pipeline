@@ -4,6 +4,7 @@ This repository documents the implementation of the Vertebrate Genome Project (V
 
 ________________________________________
 Overview
+
 This project focuses on assembling the genome of Saccharomyces cerevisiae (S288C strain) using a multi-technology approach:
 •	PacBio HiFi reads (long, high accuracy)
 •	Hi-C sequencing (chromosome structure)
@@ -11,6 +12,7 @@ This project focuses on assembling the genome of Saccharomyces cerevisiae (S288C
 The pipeline integrates these datasets to produce a highly contiguous, phased, and accurate genome assembly.
 ________________________________________
 Pipeline Workflow
+
 Input Data (HiFi + Hi-C + Bionano)
 
         ↓
